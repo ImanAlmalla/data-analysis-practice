@@ -1,22 +1,11 @@
-# مشروع تحليل بيانات - Health Insurance Fraud
+# insurance_fraud_analysis
 
-## الوصف
-هذا المشروع يهدف إلى تدريب نموذج تصنيف للكشف عن الاحتيال في التأمين الصحي باستخدام Python و RandomForest.
-يتضمن توليد بيانات تجريبية، تحليلها، تدريب نموذج، وحفظ النتائج.
+A small demo project for learning data analysis and fraud detection.
+- Tools: Python, pandas, scikit-learn, Jupyter
+- Structure: data/, notebooks/, src/
 
-## الأدوات
-- Python 3.x
-- Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
-- Jupyter Notebook (داخل VS Code)
-- SQLite (لتخزين البيانات)
+## How to run
+1. Create and activate venv: `py -3 -m venv .venv` then `.venv\Scripts\activate`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Open `notebooks/Health_Insurance_Fraud.ipynb` in VS Code and run cells.
 
-## الملفات
-- `notebook.ipynb` : النوتبوك الرئيسي
-- `analysis.py` : ملف الكود بايثون
-- `.gitignore` : تجاهل ملفات البيئة الافتراضية وملفات الكاش
-
-## طريقة الاستخدام
-1. افتحي المشروع في VS Code
-2. فعلّي البيئة الافتراضية:  
-```bash
-source .venv/Scripts/activate   # لو Windows: .venv\Scripts\activate
