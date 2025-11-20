@@ -7,6 +7,7 @@ This repository contains beginner projects for learning Data Analysis.
 1. Python project: Insurance fraud detection (Jupyter Notebook)
 2. Power BI project: Imani Aromatic Oils Dashboard
 3. SQL project: Mini online shop queries
+4. hallo
 
 ## Getting Started
 1. Clone the repository:
