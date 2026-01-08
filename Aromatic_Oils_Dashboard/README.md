@@ -6,7 +6,8 @@ The dataset contains 10 products, individual prices between 5-10 euros, for a fu
 **Skills demonstrated:** Power BI, Data visualization, KPIs, DAX, Trends, Simple calculations.
 
 
-**Business Questions Answered**
+# Business Questions Answered**
+
 What is the total revenue and profit?
 
 How do sales and profit change over time?
