@@ -6,7 +6,7 @@ The dataset contains 10 products, individual prices between 5-10 euros, for a fu
 **Skills demonstrated:** Power BI, Data visualization, KPIs, DAX, Trends, Simple calculations.
 
 
-# Business Questions Answered**
+# Business Questions Answered
 
 What is the total revenue and profit?
 
@@ -18,7 +18,7 @@ Which months perform best and worst?
 
 How does price affect profitability?
 
-**Dataset**
+# Dataset
 
 Synthetic sales data (12 months)
 
@@ -42,8 +42,9 @@ Cost (EUR)
 
 Profit (EUR)
 
-**Dashboard Structure**
-Page 1 – Sales Overview
+# Dashboard Structure
+
+**Page 1 – Sales Overview**
 
 KPI Cards: Total Revenue, Total Profit, Units Sold, Profit Margin
 
@@ -55,7 +56,7 @@ Table: Detailed sales data
 
 Product slicer for filtering
 
-Page 2 – Advanced Analysis
+**Page 2 – Advanced Analysis**
 
 Scatter Plot: Price vs Profit by product
 
