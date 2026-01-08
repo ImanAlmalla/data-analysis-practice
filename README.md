@@ -9,8 +9,11 @@ This repository contains beginner projects for learning Data Analysis.
 3. SQL project: Mini online shop queries
 
 
+📌Notes
+
+This project uses synthetic data for learning and portfolio purposes.
+
 ## Getting Started
 1. Clone the repository:
 ```bash
 git clone https://github.com/ImanAlmalla/data-analysis-practice.git
-
